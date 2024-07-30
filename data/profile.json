@@ -1,0 +1,83 @@
+{
+  "name": "Vinícius Frazão Barbosa",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Desenvolvedor Front-End Júnior",
+  "location": "Bragança Paulista - SP",
+  "phone": "(11) 94154-8016",
+  "email": "frazaovine@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "SQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Qualidade de entrega"
+    ]
+  },
+  "SobreMim": {
+    "name": "Resumo Profissional",
+    "description": "Sou um profissional dinâmico e comunicativo, com forte interesse e conhecimento em tecnologia. Tenho facilidade em me adaptar a diferentes ambientes de trabalho e equipes, o que me permitiu adquirir uma vasta experiência em diversos contextos profissionais.<br> Possuo grande empatia, e sou comprometido com o trabalho em equipe, sempre disposto a colaborar e apoiar colegas na busca por soluções eficazes. Minha lealdade e dedicação são características fundamentais que me acompanham em todas as minhas atividades profissionais."
+  },
+  "portfolio": [
+    {
+      "name": "Desafio JavaScript IF",
+      "url": "https://github.com/VineFrazao/primeiro-desafio-felipao/tree/main",
+      "github": true
+    },
+    {
+      "name": "Classe e Switch JavaScript",
+      "url": "https://github.com/VineFrazao/desafio-tipo-heroi/tree/main",
+      "github": true
+    },
+    {
+      "name": "Desafio Função JavaScript",
+      "url": "https://github.com/VineFrazao/desafio-calculadora-ranking/tree/main",
+      "github": true
+    },
+    {
+      "name": "Desafio Requisição de API Pokemons",
+      "url": "https://github.com/VineFrazao/pokedex-dio-detalhes",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor junior / Dynamic Air",
+      "period": "Outubro 2022 - Atual",
+      "description": "Atuo na programação, manutenção e atualização de sites low-code para clientes que contratam serviços de coleta de dados e desejam acessá-los de forma online e personalizada. Além disso, sou responsável pela construção, manutenção e atualização de sites internos que fornecem acesso a informações importantes sobre a manutenção de equipamentos e o uso dos mesmos. Também trabalho em projetos de melhorias nos sistemas de apontamento de horas e na criação de bases de conhecimento.<br> Atuo como responsável pela instalação, configuração, manutenção e monitoramento do Zabbix para o monitoramento interno da rede. Além disso, ofereço suporte à equipe de TI sempre que solicitado, contribuindo para a resolução de problemas e a otimização dos processos de rede."
+    },
+    {
+      "name": "Montagem de paineis elétricos / Dynamic Air",
+      "period": "Outubro 2021 - Outubro 2022",
+      "description": "Atuei como montador de painéis de controle para sistemas de transporte, além de painéis pneumáticos, realizando testes completos dos mesmos com ligação elétrica e pneumática. Minha experiência inclui:<br><br> Montagem de Painéis de Controle: Montagem de painéis de controle complexos para sistemas de transporte, garantindo que cada componente seja instalado corretamente e de acordo com as especificações técnicas.<br><br> Painéis Pneumáticos: Especialista na montagem de painéis pneumáticos, assegurando a precisão e eficiência no funcionamento dos sistemas.<br><br> Testes Elétricos e Pneumáticos: Realização de testes rigorosos para verificar o funcionamento correto dos painéis, tanto nas conexões elétricas quanto pneumáticas, assegurando a qualidade e segurança dos produtos finais.<br><br> Diagnóstico e Solução de Problemas: Experiência em identificar e resolver problemas durante o processo de montagem e teste, garantindo que todos os sistemas operem de maneira eficaz."
+    },
+    {
+      "name": "Auxiliar de Ti - Estagio / Escola Municipal Prof. Fernando Amos Siriani",
+      "period": "Outubro 2019 - Dezembro 2020",
+      "description": "Atuei na manutenção e atualização dos equipamentos de informática, garantindo seu pleno funcionamento e segurança. Além disso, ofereci suporte técnico aos professores e secretários para otimizar o uso das ferramentas tecnológicas, incluindo:<br><br> Manutenção de Equipamentos: Realizei a manutenção preventiva e corretiva dos equipamentos das salas de informática, assegurando que estivessem sempre atualizados e protegidos contra ameaças de segurança.<br><br> Suporte aos Professores: Auxiliei os professores no uso dos equipamentos durante as aulas de informática, proporcionando soluções rápidas para problemas técnicos e assegurando uma experiência de ensino eficaz.<br><br> Assistência Administrativa: Ofereci suporte aos secretários com minha expertise em Microsoft Office, ajudando na elaboração de documentos, planilhas, e apresentações, e melhorando a eficiência das operações administrativas.<br><br> Gerenciamento de Software: Assegurei que todo o software necessário estivesse instalado, atualizado e em conformidade com as políticas de TI da instituição."
+    }
+  ]
+}
