@@ -76,6 +76,7 @@ function updateProfessionalExperience(profileData) {
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateResume(profileData)
+    gitUpdate(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
 })()
