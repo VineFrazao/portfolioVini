@@ -65,7 +65,7 @@
 }
 
 .information .git::before{
-    background-image: url('../icons/github.svg');
+    background-image: url('../icons/git.svg');
 }
 
 .information .linkedin::before{
