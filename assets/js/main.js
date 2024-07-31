@@ -26,6 +26,9 @@ function updateProfileInfo(profileData) {
 
     const git = document.getElementById('profile.git')
     git.href = profileData.git
+
+    console.log(profileData.linkedin); // Verifica o valor
+    console.log(profileData.git); // Verifica o valor
 }
 
 function updateSoftSkills(profileData) {
