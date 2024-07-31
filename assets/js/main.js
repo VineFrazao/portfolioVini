@@ -21,9 +21,6 @@ function updateProfileInfo(profileData) {
     email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
 
-    const linkedin = document.getElementById('profile.linkedin')
-    linkedin.href = profileData.linkedin
-
     const git = document.getElementById('profile.git')
     git.href = profileData.git
 }
@@ -41,6 +38,11 @@ function updateHardSkills(profileData) {
 function updateResume(profileData) {
     const sobreMim = document.getElementById('profile.sobreMim')
     sobreMim.innerText = profileData.sobreMim
+}
+
+function gitUpdate(profileData){
+    const linkedin = document.getElementById('profile.linkedin')
+    linkedin.href = profileData.linkedin
 }
 
 function updatePortfolio(profileData) {
