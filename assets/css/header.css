@@ -49,19 +49,19 @@
 }
 
 .information .cargo::before{
-    background-image: url('assets/icons/cargo.svg');
+    background-image: url('/assets/icons/cargo.svg');
 }
 
 .information .local::before{
-    background-image: url('assets/icons/local.svg');
+    background-image: url('/assets/icons/local.svg');
 }
 
 .information .numero::before{
-    background-image: url('assets/icons/numero.svg');
+    background-image: url('/assets/icons/numero.svg');
 }
 
 .information .email::before{
-    background-image: url('assets/icons/email.svg');
+    background-image: url('/assets/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px){
