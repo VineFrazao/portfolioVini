@@ -77,6 +77,16 @@
       "name": "Desafio Requisição de API Pokemons",
       "url": "https://github.com/VineFrazao/pokedex-dio-detalhes",
       "github": true
+    },
+    {
+      "name": "Lendo e usando os dados recebidos de API",
+      "url": "https://github.com/VineFrazao/cotacao-Api",
+      "github": true
+    },
+    {
+      "name": "Procurar repositório via API GIT + REACT",
+      "url": "https://github.com/VineFrazao/git-repo",
+      "github": true
     }
   ]
 }
