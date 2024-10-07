@@ -84,8 +84,8 @@
       "github": true
     },
     {
-      "name": "Procurar repositório via API GIT + REACT",
-      "url": "https://github.com/VineFrazao/git-repo",
+      "name": "Procurar todos os repositório via API GIT + REACT",
+      "url": "https://github.com/VineFrazao/gitFind",
       "github": true
     }
   ]
